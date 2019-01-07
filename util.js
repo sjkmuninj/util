@@ -23,7 +23,7 @@ Date.prototype.format = function (fmt="yyyy-MM-dd") { //author: meizz
 		}
 	}
 	
-	/*let week = {
+	let week = {
 		"0" : "一",
 		"1" : "二",
 		"2" : "三",
@@ -34,7 +34,7 @@ Date.prototype.format = function (fmt="yyyy-MM-dd") { //author: meizz
 	};
 	if(/(E+)/.test(fmt)){
 		fmt=fmt.replace(RegExp.$1, ((RegExp.$1.length>1) ? (RegExp.$1.length>2 ? "星期" : "周") : "")+week[this.getDay()+""]);
-	}*/
+	}
 	return fmt;
 };
 
