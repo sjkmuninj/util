@@ -9,3 +9,15 @@
 
 **CSS3新增的样式**
 > 文字阴影,渐变,动画,圆角,阴影
+
+**CSS选择器**
+> class <br>
+> id <br>
+> 通用选择器(*) <br>
+> 标签选择器(div) <br>
+> 子选择器(>) <br>
+> 后代选择器( ) <br>
+> 相邻选择器(+) <br>
+> 伪类选择器(:link,:hover) <br>
+> 属性选择器([type='input']) <br>
+> 结构伪类选择器(:nth-child,:first-of-type) <br>
