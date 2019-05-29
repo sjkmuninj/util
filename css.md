@@ -21,3 +21,12 @@
 > 伪类选择器(:link,:hover) <br>
 > 属性选择器([type='input']) <br>
 > 结构伪类选择器(:nth-child,:first-of-type) <br>
+
+
+**link和import区别**
+> 暂无答案
+
+**CSS权重**
+> important > Id > Class > Tag
+
+
